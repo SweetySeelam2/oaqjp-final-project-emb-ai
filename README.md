@@ -54,6 +54,7 @@ final_project/
 ├── test_emotion_detection.py
 ├── README.md
 └── LICENSE
+```
 
 ---
 
